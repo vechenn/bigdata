@@ -162,7 +162,7 @@ nano hdfs-site.xml
 ```
 Затем файл workers:  
 ```bash
-nano workers
+vim workers
 ```
 Добавляем в файл следующее вместо localhost:  
 ```bash

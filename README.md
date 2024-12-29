@@ -1,2 +1,6 @@
-# bigdata
-hse course bigdata
+# MTS link course (HSE) team-22
+Гайтукаев Асламбек
+Куроедов Виктор
+Егоров Павел
+Ксения
+Мария
