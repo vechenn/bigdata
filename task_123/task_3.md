@@ -214,7 +214,7 @@ jps # должны увидеть RunJar
 Демонстрирую пример в виде данных о продажах авто "vehicles_team_22.csv", который я предварительно архивировал и положил в репозиторий на github.  
 ```bash
 cd
-wget https://github.com/vechenn/bigdata/raw/main/vehicles_dataset/vehicles_team_22.csv.zip
+wget https://github.com/vechenn/mts-course-bigdata/raw/main/vehicles_dataset/vehicles_team_22.csv.zip
 ```
 
 Для распаковки архива скачаем unzip, затем распакуем архив
